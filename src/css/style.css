@@ -148,3 +148,60 @@ img {
   border-radius: 4px;
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.21);
 }
+
+.reasons {
+  padding: 18px 440px 64px 417px;
+}
+
+.advantages {
+  margin: 0 auto;
+  width: 115px;
+  height: 28px;
+  background: #000000;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 11px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.text_8reasons {
+  margin: 0 auto;
+  font-weight: 700;
+  font-size: 38px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #222222;
+}
+
+.card-title {
+  font-weight: 400;
+  font-size: 17px;
+  align-items: center;
+  color: #1eacc7;
+}
+
+.card-text {
+  font-weight: 300;
+  font-size: 15px;
+  align-items: center;
+  color: #202020;
+}
+
+.img_block {
+  width: 116px;
+  height: 116px;
+  border-radius: 50%;
+  background-color: #4ce2ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 25px;
+}
+
+.img_block img {
+  margin: 0;
+}
