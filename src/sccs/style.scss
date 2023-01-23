@@ -280,3 +280,20 @@ img {
     }
   }
 }
+
+.choice {
+  .container_1 {
+    background-color: #000000;
+    height: 502px;
+  }
+  .container_2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    img {
+      width: 759px;
+      margin-top: -270px;
+    }
+  }
+}
